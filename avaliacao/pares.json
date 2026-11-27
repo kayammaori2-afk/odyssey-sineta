@@ -1,0 +1,410 @@
+[
+  {
+    "lote": "aviso",
+    "modelo": "claude-opus-5-5",
+    "caso": 1,
+    "gabarito": "B",
+    "sem": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    },
+    "com": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "claude-opus-5-5",
+    "caso": 2,
+    "gabarito": "C",
+    "sem": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    },
+    "com": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "claude-opus-5-5",
+    "caso": 3,
+    "gabarito": "A",
+    "sem": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    },
+    "com": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "claude-opus-5-5",
+    "caso": 4,
+    "gabarito": "A",
+    "sem": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    },
+    "com": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "claude-opus-5-5",
+    "caso": 5,
+    "gabarito": "C",
+    "sem": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    },
+    "com": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "claude-opus-5-5",
+    "caso": 6,
+    "gabarito": "B",
+    "sem": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    },
+    "com": {
+      "estrita": null,
+      "primeira_linha": "B"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "gpt-6.2-sol",
+    "caso": 1,
+    "gabarito": "B",
+    "sem": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    },
+    "com": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "gpt-6.2-sol",
+    "caso": 2,
+    "gabarito": "C",
+    "sem": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    },
+    "com": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "gpt-6.2-sol",
+    "caso": 3,
+    "gabarito": "A",
+    "sem": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    },
+    "com": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "gpt-6.2-sol",
+    "caso": 4,
+    "gabarito": "A",
+    "sem": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    },
+    "com": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "gpt-6.2-sol",
+    "caso": 5,
+    "gabarito": "C",
+    "sem": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    },
+    "com": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    }
+  },
+  {
+    "lote": "aviso",
+    "modelo": "gpt-6.2-sol",
+    "caso": 6,
+    "gabarito": "B",
+    "sem": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    },
+    "com": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "claude-opus-5-5",
+    "caso": 1,
+    "gabarito": "B",
+    "sem": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    },
+    "com": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "claude-opus-5-5",
+    "caso": 2,
+    "gabarito": "C",
+    "sem": {
+      "estrita": null,
+      "primeira_linha": "C"
+    },
+    "com": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "claude-opus-5-5",
+    "caso": 3,
+    "gabarito": "A",
+    "sem": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    },
+    "com": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "claude-opus-5-5",
+    "caso": 4,
+    "gabarito": "A",
+    "sem": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    },
+    "com": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "claude-opus-5-5",
+    "caso": 5,
+    "gabarito": "C",
+    "sem": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    },
+    "com": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "claude-opus-5-5",
+    "caso": 6,
+    "gabarito": "B",
+    "sem": {
+      "estrita": null,
+      "primeira_linha": "B"
+    },
+    "com": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "gpt-6.2-sol",
+    "caso": 1,
+    "gabarito": "B",
+    "sem": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    },
+    "com": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "gpt-6.2-sol",
+    "caso": 2,
+    "gabarito": "C",
+    "sem": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    },
+    "com": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "gpt-6.2-sol",
+    "caso": 3,
+    "gabarito": "A",
+    "sem": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    },
+    "com": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "gpt-6.2-sol",
+    "caso": 4,
+    "gabarito": "A",
+    "sem": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    },
+    "com": {
+      "estrita": "A",
+      "primeira_linha": "A"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "gpt-6.2-sol",
+    "caso": 5,
+    "gabarito": "C",
+    "sem": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    },
+    "com": {
+      "estrita": "C",
+      "primeira_linha": "C"
+    }
+  },
+  {
+    "lote": "transferencia",
+    "modelo": "gpt-6.2-sol",
+    "caso": 6,
+    "gabarito": "B",
+    "sem": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    },
+    "com": {
+      "estrita": "B",
+      "primeira_linha": "B"
+    }
+  },
+  {
+    "lote": "nativo",
+    "modelo": "claude-opus-5-5",
+    "caso": 1,
+    "gabarito": "B",
+    "sem": {
+      "estrita": null,
+      "primeira_linha": "B",
+      "leituras_indice": 1,
+      "leituras_livro": 1
+    },
+    "com": {
+      "estrita": "B",
+      "primeira_linha": "B",
+      "leituras_indice": 0,
+      "leituras_livro": 1
+    }
+  },
+  {
+    "lote": "nativo",
+    "modelo": "claude-opus-5-5",
+    "caso": 2,
+    "gabarito": "C",
+    "sem": {
+      "estrita": "C",
+      "primeira_linha": "C",
+      "leituras_indice": 1,
+      "leituras_livro": 1
+    },
+    "com": {
+      "estrita": "C",
+      "primeira_linha": "C",
+      "leituras_indice": 1,
+      "leituras_livro": 1
+    }
+  },
+  {
+    "lote": "nativo",
+    "modelo": "claude-opus-5-5",
+    "caso": 3,
+    "gabarito": "A",
+    "sem": {
+      "estrita": "A",
+      "primeira_linha": "A",
+      "leituras_indice": 1,
+      "leituras_livro": 1
+    },
+    "com": {
+      "estrita": "A",
+      "primeira_linha": "A",
+      "leituras_indice": 0,
+      "leituras_livro": 1
+    }
+  },
+  {
+    "lote": "nativo",
+    "modelo": "claude-opus-5-5",
+    "caso": 4,
+    "gabarito": "B",
+    "sem": {
+      "estrita": null,
+      "primeira_linha": "B",
+      "leituras_indice": 1,
+      "leituras_livro": 1
+    },
+    "com": {
+      "estrita": "B",
+      "primeira_linha": "B",
+      "leituras_indice": 0,
+      "leituras_livro": 0
+    }
+  }
+]
